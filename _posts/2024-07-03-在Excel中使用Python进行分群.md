@@ -1,7 +1,4 @@
----
-title: "在Excel中使用Python进行分群"
-date: 2024-07-03
----
+
 
 使用sklearn库中的KMeans算法对数据进行分群
 
