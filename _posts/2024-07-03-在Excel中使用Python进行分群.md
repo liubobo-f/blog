@@ -5,6 +5,8 @@ date: 2024-07-03
 
 使用sklearn库中的KMeans算法对数据进行分群
 
+![image](https://github.com/funnymax/blog/assets/111578882/328a865b-a5e0-4225-a53e-b3aebd331550)
+
 ```python
 import pandas as pd
 from sklearn.cluster import KMeans
